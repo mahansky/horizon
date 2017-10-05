@@ -366,6 +366,7 @@ Use “Set Options” operation to set following options to your account:
 | set_flags_s | array | The array of string values of flags that has been set in this operation |
 | clear_flags | array | The array of numeric values of flags that has been cleared in this operation |
 | clear_flags_s | array | The array of string values of flags that has been cleared in this operation |
+| inflation_dest | string | The public key of the inflation destination |
 
 
 #### Example
